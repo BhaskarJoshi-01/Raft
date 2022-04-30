@@ -17,7 +17,8 @@ Code Explanation and Test cases explanation is there in the report and code_expl
 
 ## Team Members
 
+- Bhaskar Joshi (2019111002)
 - Vedansh Mittal (2019101054)
 - Shashwat Goel (2019111006)
 - Nikhil Chandak (2019111040)
-- Bhaskar Joshi (2019111002)
+
